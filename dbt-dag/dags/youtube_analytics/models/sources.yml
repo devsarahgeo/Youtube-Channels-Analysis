@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: MYYOUTUBE
+    schema: RAW
+    tables:
+      - name: youtube_videos_raw
