@@ -1,5 +1,6 @@
 <h2> Work In Progress: </h2>
 <h3>Using  Youtube API data to analyze successful data analytics and data science YouTube channels before starting my own Youtube channel. </h3>
+<h3>Using  Dataset Used: Youtube Live Api considering top 120 channels high performing videos with subscriber count greater than or equal to 10k</h3>
 
 Power BI Report Snapshot:
 <img width="1103" height="626" alt="Screenshot 2026-01-08 at 9 10 34 AM" src="https://github.com/user-attachments/assets/c6e2703e-9b12-4b43-9641-880ac81bd07f" />
