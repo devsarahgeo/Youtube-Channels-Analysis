@@ -49,7 +49,7 @@ Youtube Live Api considering top 120 channels high performing videos with subscr
 <h3>3. Data Transformation (dbt)</h3>
 <ul>
   <li>Used <strong>dbt</strong> to clean, standardize, and model YouTube data</li>
-  <li>Created analytics-ready <strong>fact and dimension tables</strong></li>
+  <li>Created analytics-ready <strong>fact/dimension tables and marts</strong></li>
   <!-- <li>Engineered key metrics:
     <ul>
       <li>Average views</li>
