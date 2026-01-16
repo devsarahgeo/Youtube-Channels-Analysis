@@ -27,7 +27,7 @@ Creators need reliable analytics to understand audience behavior and content per
 
 ---
 
-## ⚙️ Methodology (2005 Dataset)
+## ⚙️ Methodology 
 
 <h3>1. Data Ingestion & Orchestration (Apache Airflow)</h3>
 
