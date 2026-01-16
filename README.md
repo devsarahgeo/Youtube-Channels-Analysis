@@ -3,7 +3,7 @@
 ## 🧭 Executive Summary
 <p>
 This project analyzes YouTube channel performance to identify data-driven strategies for increasing views, engagement, and long-term growth.
-Using a modern analytics stack—<strong>Snowflake, dbt, Airflow, and Power BI</strong>—raw YouTube data was transformed into scalable,
+Using a modern analytics stack - <strong>Snowflake, dbt, Airflow, and Power BI</strong>, raw YouTube data was transformed into scalable,
 analysis-ready datasets and visualized to uncover actionable insights around content timing, topics, and engagement behavior.
 </p>
 
