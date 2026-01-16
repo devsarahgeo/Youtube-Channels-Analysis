@@ -1,9 +1,4 @@
-<h3>Goal:</h3>
-Using  Youtube API data to analyze successful data analytics and data science YouTube channels before starting my own Youtube channel.
-
-
-
-# ✈️ Airline Delay Analysis and Prediction
+# 📺 Youtube Channels Analysis
 
 ## 🧭 Executive Summary
 <p>
