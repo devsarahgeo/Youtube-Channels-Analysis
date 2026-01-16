@@ -114,7 +114,7 @@ Power BI Report Snapshot:
 ## 📂 Impact
 <p>
 This project demonstrates how a modern analytics stack can transform raw YouTube data into
-<strong>actionable growth insights</strong>, enabling creators to make informed decisions around
+<strong>actionable growth insights</strong>, enabling data creators to make informed decisions around
 content strategy, timing, and topic selection.
 </p>
 
