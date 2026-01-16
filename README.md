@@ -103,7 +103,7 @@ Power BI Report Snapshot:
 </ul>
 
 <b>Conclusion:</b>
-Early-stage data related YouTube channels gain faster traction by focusing on high-engagement, beginner-friendly topics such as Excel, SQL, and job-related content, while scheduling uploads early in the week-especially Monday afternoons. More advanced topics should be introduced later to sustain long-term growth once the channel has established an engaged audience.
+Early-stage data related YouTube channels gain faster traction by focusing on high-engagement, beginner-friendly topics such as SQL, and job-related content, while scheduling uploads early in the week-especially Monday afternoons. More advanced topics should be introduced later to sustain long-term growth once the channel has established an engaged audience.
 
 ## 📂 Deliverables
 <ul>
