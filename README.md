@@ -6,7 +6,9 @@ Using  Youtube API data to analyze successful data analytics and data science Yo
 Youtube Live Api considering top 120 channels high performing videos with subscriber count greater than or equal to 10k
 
 Power BI Report Snapshot:
-<img width="1418" height="800" alt="Screenshot 2026-01-13 at 9 30 35 AM" src="https://github.com/user-attachments/assets/503595e5-ee3a-4133-b8bf-e6e0784c5a9f" />
+<img width="1417" height="795" alt="Screenshot 2026-01-16 at 12 49 18 PM" src="https://github.com/user-attachments/assets/4fae66dd-a969-43a7-85df-643ab6f9f722" />
+
+<img width="1415" height="796" alt="Screenshot 2026-01-16 at 12 49 33 PM" src="https://github.com/user-attachments/assets/63649bd1-ff87-4c56-af51-d22d33cf8464" />
 
 
 <h3>Architecture Diagram:</h3>
