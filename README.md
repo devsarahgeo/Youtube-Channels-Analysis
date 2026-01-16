@@ -12,4 +12,4 @@ Power BI Report Snapshot:
 
 
 <h3>Architecture Diagram:</h3>
-<img width="1601" height="741" alt="YouTube Channel Analysis" src="YouTube Channel Analysis.svg" />
+<img width="1601" height="741" alt="YouTube Channel Analysis" src="New YouTube Channel Analysis.svg" />
