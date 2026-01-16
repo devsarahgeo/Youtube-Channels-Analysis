@@ -102,8 +102,8 @@ Power BI Report Snapshot:
   <li>Video duration and description length showed weak correlations, indicating <strong>content quality outweighs length</strong></li>
 </ul>
 
-Conclusion:
-Early-stage data related YouTube channels gain faster traction by focusing on high-engagement, beginner-friendly topics such as Excel, SQL, and job-related content, while scheduling uploads early in the week—especially Monday afternoons. More advanced topics should be introduced later to sustain long-term growth once the channel has established an engaged audience.
+<b>Conclusion:</b>
+Early-stage data related YouTube channels gain faster traction by focusing on high-engagement, beginner-friendly topics such as Excel, SQL, and job-related content, while scheduling uploads early in the week-especially Monday afternoons. More advanced topics should be introduced later to sustain long-term growth once the channel has established an engaged audience.
 
 ## 📂 Deliverables
 <ul>
