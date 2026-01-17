@@ -87,8 +87,8 @@ Youtube Live Api considering top 120 channels high performing videos with subscr
 ## 📈 Results
 
 Power BI Report Snapshot:
-<img width="1384" height="781" alt="Screenshot 2026-01-17 at 10 43 49 AM" src="https://github.com/user-attachments/assets/c5feafda-a71a-47af-aae2-6f6d086994d7" />
 <img width="1384" height="775" alt="Screenshot 2026-01-17 at 10 43 28 AM" src="https://github.com/user-attachments/assets/17038671-9b92-42ff-9fc5-4d86e83ef561" />
+<img width="1384" height="781" alt="Screenshot 2026-01-17 at 10 43 49 AM" src="https://github.com/user-attachments/assets/c5feafda-a71a-47af-aae2-6f6d086994d7" />
 
 
 <h3>Architecture Diagram:</h3>
